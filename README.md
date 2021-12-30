@@ -9,3 +9,22 @@ Sirrov es un simulador del movimiento ocular y la respuesta vestibular frente a 
 
 
 
+Estructura del proyecto:
+- Software [Software]
+    - Sirrov 
+    - Sirrov-ctrl
+- Hardware [Hardware]
+    - Eye Pi [eye-pi]
+    - Eye Pressure [ ]
+    - Ear Sensor [ ]
+    - Neck Sensor [ ]
+    - Power Supply [ ]
+- Documentación [doc](doc/)
+    - Imagenes usadas [img]
+
+
+# Colaboradores
+- Escuela de Tecnología Médica Universidad Austral de Chile
+- TM. Eliezer Lillo Oyarzo *[LinkeIn](https://cl.linkedin.com/in/eliezer-neftal%C3%AD-lillo-oyarzo-90810089)*
+
+*Sirrov, es un proyecto creado por Nicolás Quezada Baier*
