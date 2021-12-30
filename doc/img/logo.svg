@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="1161.000000pt"
+   height="1280.000000pt"
+   viewBox="0 0 1161.000000 1280.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.24375"
+     inkscape:cx="1035.8974"
+     inkscape:cy="1277.9487"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <metadata
+     id="metadata2">
+Created by potrace 1.15, written by Peter Selinger 2001-2017
+</metadata>
+  <g
+     transform="matrix(0.06140141,0,0,-0.06140141,-67.240827,1123.9672)"
+     fill="#000000"
+     stroke="none"
+     id="g6"
+     style="fill:#800000">
+    <path
+       d="m 5845,12790 c -188,-12 -336,-28 -534,-56 -1770,-252 -3130,-1310 -3632,-2827 -78,-236 -147,-557 -164,-762 -12,-142 21,-341 80,-490 l 27,-67 -58,-86 C 1475,8367 1324,8168 1101,7890 467,7101 399,7013 246,6785 145,6635 38,6424 14,6330 4,6289 0,6244 3,6208 c 13,-149 112,-244 413,-397 91,-46 114,-53 232,-71 73,-11 157,-30 188,-41 74,-28 130,-83 139,-138 8,-49 3,-76 -40,-211 -19,-58 -37,-125 -41,-150 -9,-60 -40,-120 -109,-211 -74,-96 -105,-161 -105,-222 0,-98 48,-170 181,-272 54,-42 105,-85 113,-96 23,-33 3,-69 -95,-177 -96,-105 -129,-159 -129,-213 0,-41 10,-56 118,-179 166,-188 225,-302 226,-430 0,-69 -9,-101 -101,-380 -55,-168 -109,-345 -118,-394 -24,-122 -17,-287 15,-369 48,-125 200,-313 339,-418 116,-87 318,-176 479,-210 35,-7 364,-13 984,-17 l 932,-7 47,-58 c 59,-73 126,-209 179,-362 77,-223 171,-647 231,-1037 L 4104,0 h 3128 c 1720,0 3128,2 3128,4 0,2 -18,88 -39,192 -124,594 -272,1490 -350,2124 -63,506 -75,669 -75,1030 0,334 0,335 27,432 59,214 182,487 329,733 37,61 134,209 217,330 307,449 488,723 541,820 138,251 310,734 420,1175 113,454 165,826 176,1275 25,954 -216,1825 -711,2565 -448,670 -1112,1216 -1910,1570 -642,286 -1335,455 -2150,525 -211,18 -803,27 -990,15 z"
+       id="path4"
+       style="fill:#800000" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:286.652px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.16629"
+     x="265.36816"
+     y="1097.6444"
+     id="text1094"><tspan
+       sodipodi:role="line"
+       id="tspan1092"
+       style="stroke-width:7.16629"
+       x="265.36816"
+       y="1097.6444">Sirrov</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:286.652px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.16629"
+     x="266.62784"
+     y="1097.6335"
+     id="text1094-0"><tspan
+       sodipodi:role="line"
+       id="tspan1092-2"
+       style="fill:#ffffff;stroke-width:7.16629"
+       x="266.62784"
+       y="1097.6335">Si</tspan></text>
+</svg>
