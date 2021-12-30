@@ -24,7 +24,8 @@ Estructura del proyecto:
 
 
 # Colaboradores
-- Escuela de Tecnología Médica Universidad Austral de Chile
-- TM. Eliezer Lillo Oyarzo *[LinkeIn](https://cl.linkedin.com/in/eliezer-neftal%C3%AD-lillo-oyarzo-90810089)*
+- Escuela de Tecnología Médica Universidad Austral de Chile ![web](https://img.shields.io/badge/TM-UACH_PM-success)(http://tmedicapm.uach.cl/)
+- TM. Eliezer Lillo Oyarzo  ![LinkeIn](https://img.shields.io/badge/Eliezer-blue?style=plastic&logo=LinkedIn)(https://cl.linkedin.com/in/eliezer-neftal%C3%AD-lillo-oyarzo-90810089)
 
 *Sirrov, es un proyecto creado por Nicolás Quezada Baier*
+
