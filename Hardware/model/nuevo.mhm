@@ -1,0 +1,18 @@
+# Written by MakeHuman UNKNOWN:UNKNOWN
+version v1.2.1
+camera 357.0 335.5 -0.5225901188276698 1.0 0.693496354290609 1.8249999999999966
+modifier head/head-angle-in|out 0.188000
+modifier breast/BreastSize 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.566000
+modifier macrodetails/African 0.266000
+modifier macrodetails/Asian 0.211601
+modifier macrodetails/Caucasian 0.522399
+modifier macrodetails-universal/Muscle 0.418000
+modifier macrodetails-universal/Weight 0.410000
+modifier macrodetails-height/Height 0.553000
+modifier macrodetails-proportions/BodyProportions 0.500000
+clothesHideFaces True
+skinMaterial skins/middleage_caucasian_female/middleage_caucasian_female.mhmat
+subdivide False

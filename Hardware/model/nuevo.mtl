@@ -1,0 +1,10 @@
+# MakeHuman exported MTL
+# www.makehumancommunity.org
+
+
+newmtl middleage_caucasian_female
+Kd 1 1 1
+Ks 0.06275 0.05098 0.05098
+d 0
+map_Kd textures/middleage_lightskinned_female_diffuse.png
+map_D textures/middleage_lightskinned_female_diffuse.png
