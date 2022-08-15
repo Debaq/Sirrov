@@ -27,7 +27,7 @@ def update_display(display, screen):
     pixelbytes = pygame.transform.rotate(screen, 180).convert(16, 0).get_buffer()
     # Lazy (slow) byteswap:
     pixelbytes = bytearray(pixelbytes)
-    pixelbytes[0::2], pixelbytes[1::2] = pixelbytes[1::2], pixelbytes[0::2]
+    pixelbytes[::2], pixelbytes[1::2] = pixelbytes[1::2], pixelbytes[::2]
     # Bypass the ST7789 PIL image RGB888->RGB565 conversion
     for i in range(0, len(pixelbytes), 4096):
         display.data(pixelbytes[i:i + 4096])
