@@ -8,7 +8,7 @@ print('Waiting for connection')
 try:
     ClientSocket.connect((host, port))
 except socket.error as e:
-    print(str(e))
+    print(e)
 
 Response = ClientSocket.recv(1024)
 while True:
